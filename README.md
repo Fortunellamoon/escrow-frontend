@@ -20,7 +20,7 @@ yarn start
 - 区块浏览器：https://scan-testnet.potos.hk
 - 测试币水龙头：https://faucet-testnet.potos.hk （免 gas 领取 0.001 POT）
 
-三人按验收流程走一遍：A 买家创建并付款两笔订单，B 卖家对订单 1 发起争议，C 仲裁人（合约 arbiter）
+验收流程：A 买家创建并付款两笔订单，B 卖家对订单 1 发起争议，C 仲裁人（合约 arbiter）
 打开页面点「退给买家」，A 再对订单 0 点「确认收货」。
 
 ## 环境变量
